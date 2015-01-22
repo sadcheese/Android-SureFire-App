@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name = "company">
+        
+        <item> The Art Of Charm</item>
+        <item> SashaPUA </item>
+        <item> Live Dynamics</item>
+        <item> Sparks Of Attraction </item>
+        <item> Ministery Of Attraction</item>
+    </string-array>
+    
+</resources>
